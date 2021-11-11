@@ -3,7 +3,7 @@
 此脚本用pycharm打开执行，后续推出命令行版本。
 
 注意⚠️：
-1. search_data = 'shiro'  #此处修改为你要搜索的关键字
+1. search_data = ''  #此处修改为你要搜索的关键字
 2. header = {
         'User-Agent':
             'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:93.0) Gecko/20100101 Firefox/93.0',
