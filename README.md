@@ -1,6 +1,7 @@
 # fofa-url-title
 根据python3编写，自动化批量获得目标相关url和title信息，用最简洁的代码实现目的。
 此脚本用pycharm打开执行，后续推出命令行版本。
+
 注意⚠️：
 1. search_data = 'shiro'  #此处修改为你要搜索的关键字
 2. header = {
