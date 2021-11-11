@@ -9,5 +9,5 @@
         'Cookie':
             '',  #此处修改为你登录会员后浏览器中的cookie
     }
- 3. with open('shiro.txt','a+') as f:  #此处把把"shiro.txt"修改为你要保存的文件路径
+ 3. with open('your_file.txt','a+') as f:  #此处把把"shiro.txt"修改为你要保存的文件路径
  4. 执行即可
